@@ -2,4 +2,4 @@
 
 ## Demo with intent
 
-Hi! Incels
+Hi! Incels.
